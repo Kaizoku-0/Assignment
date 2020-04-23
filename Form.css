@@ -1,0 +1,29 @@
+input {
+  width : "10%"
+}
+
+input {
+  border: 1px solid  blue;
+  border-radius: 4px;
+}
+input{
+
+background-color: #b3a4a4;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+  margin: 2px 1px;
+  cursor: pointer;
+}
+
+body{
+  background-color: #468a3b
+}
+
+body{
+  
+}
+
+
+
